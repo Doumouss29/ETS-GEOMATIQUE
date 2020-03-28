@@ -7,11 +7,26 @@ date: 28/03/2020
 ---
 
 <h1 id="objectif--ets-géomatique">Objectif : ETS GÉOMATIQUE</h1>
-<h2 id="création-de-lets">Création de l’ETS</h2>
+<h2 id="création-de-lets--argyris">Création de l’ETS : Argyris</h2>
+<h3 id="choix-du-logo-..">Choix du logo …</h3>
+<p><img src="https://lh3.googleusercontent.com/whC_a5-tTqC2XlT0zt0NmegDlf3FHqhxRExlP4CMGSsaGFS6e6QiDp4Uyai_nsdb9nK4UCQwQ1g" alt="enter image description here" title="logo 1"><br>
+<img src="https://lh3.googleusercontent.com/uORs-zW--ZhBMqwoOKXdaHQHYw8cRiPBM0HlBHmLwucQn_XFVQZ8FWt8-IE1krf7ixzpX7rwaJI" alt="enter image description here" title="logo2"><br>
+<img src="https://lh3.googleusercontent.com/Iub3_ormlXJU-1QBHVj3o-voT30mmxrXS2CtdjKLgnw311AQajGfuho4LkXzJNF2rQQOwJT87u0" alt="enter image description here" title="logo3"><br>
+<img src="https://lh3.googleusercontent.com/KNSNrjLiNhYl8mhprNKLeLyMZI5-59q3BE_LMHzhvjOgWaS6FThsuTq5LhfqPlondQ7izKRyypQ" alt="enter image description here" title="logo4"></p>
+<p><strong>NB: Pour le procédure administrative, Voir avec Dan VOHI pour les formalités avec le Notaire</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Nom de l’ETS</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Statuts et règlement</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Mode de fonctionnement</li>
+<li>
+<dl>
+<dt>[ ] Statuts et règlement</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>[ ] Mode de fonctionnement</dt>
+<dd>A définir</dd>
+</dl>
+</li>
 </ul>
 <h2 id="mise-en-place-dun-dashboard-de-visualisation">Mise en place d’un Dashboard de visualisation</h2>
 <h3 id="voir-le-modèle-a-adopter">Voir le modèle a adopter</h3>
@@ -23,29 +38,55 @@ date: 28/03/2020
 </ul>
 <h2 id="réflexion-sur-les-compétences-de-lets">Réflexion sur les compétences de l’ETS</h2>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Etudes et développement web</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> création et administration de sig</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> big data</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> géomarketing</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> topographie &amp; geodesie</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> etc</li>
+<li>
+<dl>
+<dt>SIG &amp; CARTOGRAPHIE</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>GÉOMARKETING</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>ÉTUDES &amp; DÉVELOPPEMENT</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>SCIENCE ET ANALYSE DES DONNÉES</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>TOPOGRAPHIE &amp; TÉLÉDÉTECTION</dt>
+<dd>A définir</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>CONSEILS &amp; FORMATION  ???</dt>
+<dd>A définir</dd>
+</dl>
+</li>
 </ul>
 <h2 id="réflexion-sur-les-projets">Réflexion sur les projets</h2>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Ecoles</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Santé</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Agriculture</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Réseau routier</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Transport</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Géolocalisation</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Projet Adressage</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Projet la poste</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Proposition de services</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Collecte de données</li>
-</ul>
-<h2 id="business-en-ligne">Business en ligne</h2>
-<ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> A discuter</li>
+<li>Ecoles</li>
+<li>Santé</li>
+<li>Agriculture</li>
+<li>Réseau routier</li>
+<li>Transport</li>
+<li>Géolocalisation</li>
+<li>Projet Adressage</li>
+<li>Projet la poste</li>
+<li>Proposition de services</li>
+<li>Collecte de données</li>
 </ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
