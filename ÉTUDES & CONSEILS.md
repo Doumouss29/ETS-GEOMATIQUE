@@ -1,16 +1,16 @@
 **ÉTUDES & CONSEILS**
 
-**Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
+**I/ Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
 A travers un accompagnement étroit, Argyris est à vos côtés pour vous apporter tout conseil et vous assiste dans vos projets.
 
-**Etudes : Etudes sur des problématiques territoriales**
+**II/ Etudes : Etudes sur des problématiques territoriales**
 Parce que nous croyons que le développement économique et social des territoires repose sur des processus collectifs et concertés.
 
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
 
-### Nos engagements dans la conduite personnalisée d’un diagnostic territorial
+**Nos engagements dans la conduite personnalisée d’un diagnostic territorial**
 
--   Réaliser un état des lieux permettant de déterminer :
+-   Réaliser un état des lieux permettant de déterminer 
     -   les caractéristiques socio-économiques du territoire,
     -   les forces et faiblesses du territoire,
     -   les attentes des personnes,
@@ -18,7 +18,7 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 -   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
 -   Définir un plan d’actions avec les axes d’intervention prioritaires
 
-### En vous appuyant sur notre expertise, vous bénéficiez…
+**En vous appuyant sur notre expertise, vous bénéficiez**
 
 -   D’une équipe pluridisciplinaire de consultants pour mener à bien votre projet,
 -   De l’expertise requise pour la réussite de la mission,
@@ -43,6 +43,6 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzk3MTQyMiwxMTg4MTg5MDg3LDE5NT
-Y2NjMzNCwxODU0NTY3NDI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDgzMzM3NDU3LDExODgxODkwODcsMTk1Nj
+Y2MzM0LDE4NTQ1Njc0MjUsNzMwOTk4MTE2XX0=
 -->
