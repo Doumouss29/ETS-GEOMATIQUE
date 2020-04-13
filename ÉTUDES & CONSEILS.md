@@ -14,11 +14,11 @@ et les opportunités,
 
 **Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
-<![endif]-->
-
-La  solution web sur mesure
+- **La  solution web sur mesure**
 
 Nos solutions s’accordent à vos contraintes financières et marketing tout en assurant la qualité de nos produits. Choisir Argyris  **solution web sur mesure** c’est faire le chois d’une technologie en perpétuelle évolution avec des fonctionnalités qui vous permettrons de mieux gérer vos activités. Notre engagement est de vous épauler et de vous assister pas à pas vers la création ultime de votre site web et/ou application.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODEwMjA3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTY5OTkwNzQzMyw3MzA5OTgxMTZdfQ==
 -->
