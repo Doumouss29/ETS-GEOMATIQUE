@@ -2,10 +2,11 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/jkR_CB33_g6ZeLwo_xCVG9UGhq2xHVmxO1v4BKFhYL9XsAPUWTkdOagwxul9IvWY5tBxbO23CCyd)
 
-**I/ Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
+**Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
 A travers un accompagnement étroit, ARGYRIS est à vos côtés pour vous apporter tout conseil et vous assiste dans vos projets.
 
-**II/ Etudes : Etudes sur des problématiques territoriales**
+**Etudes : Etudes sur des problématiques territoriales**
+
 Parce que nous croyons que le développement économique et social des territoires repose sur des processus collectifs et concertés.
 
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
@@ -20,7 +21,7 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 -   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
 -   Définir un plan d’actions avec les axes d’intervention prioritaires
 
-**IIITransformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
+**Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
 ![enter image description here](https://lh3.googleusercontent.com/D185x6_JPf_r1NHEtMz6IKhwQRtrCNi36ql65Lc-FiifMBmGemv7608C-UtVFhaYDMVQE9XwXRKi)
 
@@ -48,7 +49,7 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY2NDAxOSwtNDI0MzcwMjUsMTE4OD
+eyJoaXN0b3J5IjpbMTQ0NzYwMjQyMSwtNDI0MzcwMjUsMTE4OD
 E4OTA4NywxOTU2NjYzMzQsMTg1NDU2NzQyNSw3MzA5OTgxMTZd
 fQ==
 -->
