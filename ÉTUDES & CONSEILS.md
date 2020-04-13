@@ -8,27 +8,14 @@ Parce que nous croyons que le développement économique et social des territoir
 
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
 
--   **Vos besoins** :  
-   
-    -   Définir votre stratégie de développement économique territorial et la partager avec tous les acteurs
-    -   Construire un outil d’aide à la décision dans le cadre d’un projet territorial après analyse des forces et faiblesses de votre territoire
-    -   Contribuer à l’élaboration des outils de planification territoriale (SCOT, Schéma d’aménagement…)
-    
-    _Industriels…_
-    
-    -   Évaluer l’impact de votre activité sur le tissu industriel local, notamment dans le cadre d’une mission de revitalisation
-
--   **Vos objectifs** :
-    -   Développer l’activité économique sur votre territoire
-    -   Améliorer l’attractivité territoriale
 
 ### Nos engagements dans la conduite personnalisée d’un diagnostic territorial
 
--   Réaliser un état des lieux permettant de déterminer :
+-   Réaliser un état des lieux permettant de déterminer 
     -   les caractéristiques socio-économiques du territoire,
     -   les forces et faiblesses du territoire,
     -   les attentes des personnes,
-    -   les enjeux économiques, environnementaux et sociaux.
+    -   les enjeux économiques, environnementaux et socio-démographiques.
 -   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
 -   Définir un plan d’actions avec les axes d’intervention prioritaires
 
@@ -57,6 +44,6 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NDkwNTY2LDE4NTQ1Njc0MjUsNzMwOT
+eyJoaXN0b3J5IjpbMTk1NjY2MzM0LDE4NTQ1Njc0MjUsNzMwOT
 k4MTE2XX0=
 -->
