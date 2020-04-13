@@ -1,5 +1,7 @@
-
 **GEOMARKETING**
+
+![enter image description here](https://lh3.googleusercontent.com/gfFk_v9OoHT7UqUHLP3Uvdw--ub9ZHxHMNkAJCrYVZCnedAf2Jv7-1K4rLQTSQCtvGPNRk80H-hL)
+
 Spécialiste des études en géomarketing et experts en systèmes d’information géographique (SIG), ARGYRIS  vous accompagne dans le choix de vos logiciels de géomarketing, de webmapping, vos geodashboards et solutions géodécisionnelles qui intègre les dimensions bigdata, CRM, geofencing, reporting, et géolocalisation.
 
 **Etudes géomarketing**
@@ -24,6 +26,6 @@ Montez en compétence dans le domaine du géomarketing ! Nous offrons des servic
 
 Cabinet d’études ou de consulting ne disposant pas de composante spatiale ? ARGYRIS propose de mettre à contribution son expertise par le biais de partenariats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjEwMjAxNiwtODY2NzE2NDQxLC0xNj
-g4NTIzNDc3XX0=
+eyJoaXN0b3J5IjpbMTMwMDQyOTkxNiwxMjY2MTAyMDE2LC04Nj
+Y3MTY0NDEsLTE2ODg1MjM0NzddfQ==
 -->
