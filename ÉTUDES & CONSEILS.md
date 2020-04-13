@@ -2,6 +2,8 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/jkR_CB33_g6ZeLwo_xCVG9UGhq2xHVmxO1v4BKFhYL9XsAPUWTkdOagwxul9IvWY5tBxbO23CCyd)
 
+
+
 **Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
 A travers un accompagnement étroit, ARGYRIS est à vos côtés pour vous apporter tout conseil et vous assiste dans vos projets.
 
@@ -49,7 +51,7 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzYwMjQyMSwtNDI0MzcwMjUsMTE4OD
-E4OTA4NywxOTU2NjYzMzQsMTg1NDU2NzQyNSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNjEzMDE0NzksMTQ0NzYwMjQyMSwtND
+I0MzcwMjUsMTE4ODE4OTA4NywxOTU2NjYzMzQsMTg1NDU2NzQy
+NSw3MzA5OTgxMTZdfQ==
 -->
