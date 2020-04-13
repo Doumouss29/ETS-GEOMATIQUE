@@ -52,7 +52,11 @@ Pour la création de site internet professionnel notre équipe se charge de la c
 
 **Application web personnalisée**
 Une application web est un système informatique communiquant qui permet à son utilisateur un gain de temps considérable. Notre **solution sur mesure** revient à proposer un outil avec des fonctionnalités innovantes et simples d’utilisations qui s’adaptent aux contraintes métiers, avec un impact direct sur la rentabilité et la productivité de vos projets, produits, etc. Nous élaborons des applications compatibles avec de multiples systèmes d’exploitation afin de fidéliser vos cibles et consommateurs.
+
+Source : 
+- [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
+- [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjIyNDg1LDE4NTQ1Njc0MjUsNzMwOT
+eyJoaXN0b3J5IjpbNjg1NDkwNTY2LDE4NTQ1Njc0MjUsNzMwOT
 k4MTE2XX0=
 -->
