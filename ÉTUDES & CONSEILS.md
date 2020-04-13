@@ -8,13 +8,21 @@ Parce que nous croyons que le développement économique et social des territoir
 
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
 
-En vous appuyant sur notre expertise, vous bénéficiez d'études permettant de déterminer : 
+### Nos engagements dans la conduite personnalisée d’un diagnostic territorial
+
+-   Réaliser un état des lieux permettant de déterminer :
     -   les caractéristiques socio-économiques du territoire,
     -   les forces et faiblesses du territoire,
     -   les attentes des personnes,
-    -   les enjeux économiques, environnementaux et socio-démographiques.
-    - élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
-    - Définir un plan d’actions avec les axes d’intervention prioritaires
+    -   les enjeux économiques, environnementaux et sociaux.
+-   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
+-   Définir un plan d’actions avec les axes d’intervention prioritaires
+
+### En vous appuyant sur notre expertise, vous bénéficiez…
+
+-   D’une équipe pluridisciplinaire de consultants pour mener à bien votre projet,
+-   De l’expertise requise pour la réussite de la mission,
+-   Des ressources nécessaires à la mise en œuvre de votre projet dans des délais maîtrisés.
 
 **Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
@@ -35,6 +43,6 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODE4OTA4NywxOTU2NjYzMzQsMTg1ND
-U2NzQyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYyMzk3MTQyMiwxMTg4MTg5MDg3LDE5NT
+Y2NjMzNCwxODU0NTY3NDI1LDczMDk5ODExNl19
 -->
