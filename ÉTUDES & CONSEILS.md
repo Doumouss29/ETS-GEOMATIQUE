@@ -3,7 +3,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/jkR_CB33_g6ZeLwo_xCVG9UGhq2xHVmxO1v4BKFhYL9XsAPUWTkdOagwxul9IvWY5tBxbO23CCyd)
 
 **I/ Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
-A travers un accompagnement étroit, Argyris est à vos côtés pour vous apporter tout conseil et vous assiste dans vos projets.
+A travers un accompagnement étroit, ARGYRIS est à vos côtés pour vous apporter tout conseil et vous assiste dans vos projets.
 
 **II/ Etudes : Etudes sur des problématiques territoriales**
 Parce que nous croyons que le développement économique et social des territoires repose sur des processus collectifs et concertés.
@@ -24,7 +24,7 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 
 - **La  solution web sur mesure**
 
-Nos solutions s’accordent à vos contraintes financières et marketing tout en assurant la qualité de nos produits. Choisir Argyris  **solution web sur mesure** c’est faire le chois d’une technologie en perpétuelle évolution avec des fonctionnalités qui vous permettrons de mieux gérer vos activités. Notre engagement est de vous épauler et de vous assister pas à pas vers la création ultime de votre site web et/ou application.
+Nos solutions s’accordent à vos contraintes financières et marketing tout en assurant la qualité de nos produits. Choisir ARGYRIS  **solution web sur mesure** c’est faire le chois d’une technologie en perpétuelle évolution avec des fonctionnalités qui vous permettrons de mieux gérer vos activités. Notre engagement est de vous épauler et de vous assister pas à pas vers la création ultime de votre site web et/ou application.
 
 *En savoir plus à*
 *Toutes nos solutions sont développées sur mesure pour respecter les besoins spécifiques de nos clients.*
@@ -45,7 +45,7 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDcwMzQ3OTgsLTQyNDM3MDI1LDExOD
-gxODkwODcsMTk1NjY2MzM0LDE4NTQ1Njc0MjUsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbOTg3OTk4ODAyLC00MjQzNzAyNSwxMTg4MT
+g5MDg3LDE5NTY2NjMzNCwxODU0NTY3NDI1LDczMDk5ODExNl19
+
 -->
