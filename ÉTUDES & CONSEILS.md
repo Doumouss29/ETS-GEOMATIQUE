@@ -20,7 +20,10 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 -   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
 -   Définir un plan d’actions avec les axes d’intervention prioritaires
 
-**III/ Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
+**IIITransformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
+
+![enter image description here](https://lh3.googleusercontent.com/D185x6_JPf_r1NHEtMz6IKhwQRtrCNi36ql65Lc-FiifMBmGemv7608C-UtVFhaYDMVQE9XwXRKi)
+
 
 - **La  solution web sur mesure**
 
@@ -45,7 +48,7 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3OTk4ODAyLC00MjQzNzAyNSwxMTg4MT
-g5MDg3LDE5NTY2NjMzNCwxODU0NTY3NDI1LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTY1NzY2NDAxOSwtNDI0MzcwMjUsMTE4OD
+E4OTA4NywxOTU2NjYzMzQsMTg1NDU2NzQyNSw3MzA5OTgxMTZd
+fQ==
 -->
