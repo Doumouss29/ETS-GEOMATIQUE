@@ -33,9 +33,11 @@ Ses services vont de la sélection à l’acquisition de données brutes auprès
 
 _Photogrammétrie par drone_
 
+![enter image description here](https://lh3.googleusercontent.com/2HYVY66z5SRRuU_k9pe-xZqG-S84DNynDCAUgNDlJ3VdRIsCA7Xgi8aesleztfxnu4xCWk-LG7E7)
+
 ARGYRIS possède plusieurs types de drones (à voilure tournante ou à voilure fixe), ce qui nous permet de répondre à tous les types de demande en matière de topographie par drone ou de modélisation 3D : haute résolution sur de petites surfaces ou des objets de petite taille, moindre résolution sur des grandes surfaces.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI0ODUzOTYsLTEyODA3MjI5ODIsMT
-g1OTEzOTc3OCw3NDczNjI4MjgsMTg5Nzc0MjUyNSwxNjU2MTAw
-ODkwXX0=
+eyJoaXN0b3J5IjpbLTU3NjIzODg1MywtMTI4MDcyMjk4MiwxOD
+U5MTM5Nzc4LDc0NzM2MjgyOCwxODk3NzQyNTI1LDE2NTYxMDA4
+OTBdfQ==
 -->
