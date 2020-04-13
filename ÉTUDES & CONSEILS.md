@@ -24,6 +24,8 @@ Nos solutions s’accordent à vos contraintes financières et marketing tout en
 **Créer un site internet professionnel**
 Pour la création de site internet professionnel notre équipe se charge de la charte graphique, de la structure et tous les paramétrages qui vous feront bénéficier d’un site web personnalisé et d’une véritable vitrine pour votre activité.
 
+**Application web personnalisée**
+Une application web est un système informatique communiquant qui permet à son utilisateur un gain de temps considérable. Notre **solution sur mesure** revient à proposer un outil avec des fonctionnalités innovantes et simples d’utilisations qui s’adaptent aux contraintes métiers, avec un impact direct sur la rentabilité et la productivité de vos projets, produits, etc. Nous élaborons des applications compatibles avec de multiples systèmes d’exploitation afin de fidéliser vos cibles et consommateurs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzUyMzQ5Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTg1NDU2NzQyNSw3MzA5OTgxMTZdfQ==
 -->
