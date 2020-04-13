@@ -9,8 +9,7 @@ Parce que nous croyons que le développement économique et social des territoir
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
 
 -   **Vos besoins** :  
-    __Collectivités locales…__
-    
+   
     -   Définir votre stratégie de développement économique territorial et la partager avec tous les acteurs
     -   Construire un outil d’aide à la décision dans le cadre d’un projet territorial après analyse des forces et faiblesses de votre territoire
     -   Contribuer à l’élaboration des outils de planification territoriale (SCOT, Schéma d’aménagement…)
@@ -54,6 +53,6 @@ Pour la création de site internet professionnel notre équipe se charge de la c
 **Application web personnalisée**
 Une application web est un système informatique communiquant qui permet à son utilisateur un gain de temps considérable. Notre **solution sur mesure** revient à proposer un outil avec des fonctionnalités innovantes et simples d’utilisations qui s’adaptent aux contraintes métiers, avec un impact direct sur la rentabilité et la productivité de vos projets, produits, etc. Nous élaborons des applications compatibles avec de multiples systèmes d’exploitation afin de fidéliser vos cibles et consommateurs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUxMDEwMjIsMTg1NDU2NzQyNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3MjIyNDg1LDE4NTQ1Njc0MjUsNzMwOT
+k4MTE2XX0=
 -->
