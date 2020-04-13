@@ -10,7 +10,7 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 
 **Nos engagements dans la conduite personnalisée d’un diagnostic territorial**
 
--   Réaliser un état des lieux permettant de déterminer 
+-   Réaliser un état des lieux permettant de déterminer: 
     -   les caractéristiques socio-économiques du territoire,
     -   les forces et faiblesses du territoire,
     -   les attentes des personnes,
@@ -24,7 +24,7 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 -   De l’expertise requise pour la réussite de la mission,
 -   Des ressources nécessaires à la mise en œuvre de votre projet dans des délais maîtrisés.
 
-**Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
+**III/ Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
 - **La  solution web sur mesure**
 
@@ -43,6 +43,6 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzM3NDU3LDExODgxODkwODcsMTk1Nj
-Y2MzM0LDE4NTQ1Njc0MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzODgxODgyNzEsMTE4ODE4OTA4NywxOT
+U2NjYzMzQsMTg1NDU2NzQyNSw3MzA5OTgxMTZdfQ==
 -->
