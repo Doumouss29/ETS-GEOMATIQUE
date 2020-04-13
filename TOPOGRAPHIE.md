@@ -24,15 +24,10 @@ Quel que soit votre projet, ARGYRIS vous propose une formule topographique ajust
 
 _Traitement et correction d’images aériennes et satellitaires_
 
-SIRS dispose d’un atelier de traitement d’images aériennes et satellitaires. Ses services vont de la sélection à l’acquisition de données brutes auprès des différents fournisseurs nationaux ou internationaux – tout type d’images, en moyenne, haute ou très haute résolution, papier ou numérique, optique ou radar – jusqu’à la fourniture d’images orthorectifiées, corrigées radiométriquement et mosaïquées.
+SIRS dispose d’un atelier de traitement d’images aériennes et satellitaires. 
 
-SIRS est aussi en mesure de traiter des photographies aériennes non métriques, ainsi que de vieilles campagnes aériennes dont les clichés sont en mauvais état et les paramètres de prise de vue perdus.
-
-Pour être exploité, un cliché aérien ou une image satellitaire doit faire l’objet d’une orientation interne et externe pour recréer mathématiquement les conditions géométriques de la prise de vue. Dans le processus d’orthorectification, chaque pixel de l’image est ensuite corrigé des déformations dues au relief par exploitation d’un Modèle Numérique de Terrain (MNT).
-
-Ces traitements et corrections d’images permettent à nos clients de superposer à leurs données de référence de nouvelles couches d’informations : fonds d’images d’archives non exploités, données historiques à acquérir pour une étude diachronique de territoire, nouvelle acquisition satellitaire...
-
+Ses services vont de la sélection à l’acquisition de données brutes auprès des différents fournisseurs nationaux ou internationaux – tout type d’images, en moyenne, haute ou très haute résolution, papier ou numérique, optique ou radar – jusqu’à la fourniture d’images orthorectifiées, corrigées radiométriquement et mosaïquées.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc3MzY5NjIsNzQ3MzYyODI4LDE4OT
-c3NDI1MjUsMTY1NjEwMDg5MF19
+eyJoaXN0b3J5IjpbMTI0MDU2ODY5Niw3NDczNjI4MjgsMTg5Nz
+c0MjUyNSwxNjU2MTAwODkwXX0=
 -->
