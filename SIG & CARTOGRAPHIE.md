@@ -5,9 +5,9 @@ Argyris expert en Système d’informations Géographiques accompagne les entrep
 
  En fonction de chaque projet et selon les critères techniques et économiques, nous proposons des solutions SIG open source ou l’intégration de solutions SIG éditeur (i.e. ArcGIS d’ESRI).
 
--   Ingénierie de la donnée : Acquisition, structuration, traitement et vente de données géographiques
+**Ingénierie de la donnée : Acquisition, structuration, traitement et vente de données géographiques**
 
-La donnée géographique est au cœur des analyses territoriales. Avec des équipes spécialisées dans la collecte et l’analyse de données, en plus de la vente de données, Argyris vous assiste dans la **recherche**, la **production** et le **traitement** de vos données. A travers une méthodologie qui se veut rigoureuse nous fournissons des données de qualité optimale, interopérables et conforment aux outils SIG.
+La donnée géographique est au cœur des analyses territoriales. Avec des équipes spécialisées dans la collecte et l’analyse de données, en plus de la vente de données, Argyris vous assiste dans la echerche, la production et le traitement de vos données. A travers une méthodologie qui se veut rigoureuse nous fournissons des données de qualité optimale, interopérables et conforment aux outils SIG.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMzY3MDQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA0MjU2Mjc0LDczMDk5ODExNl19
 -->
