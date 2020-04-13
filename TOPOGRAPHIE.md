@@ -26,8 +26,10 @@ _Traitement et correction d’images aériennes et satellitaires_
 
 Ses services vont de la sélection à l’acquisition de données brutes auprès des différents fournisseurs nationaux ou internationaux – tout type d’images, en moyenne, haute ou très haute résolution, papier ou numérique, optique ou radar – jusqu’à la fourniture d’images orthorectifiées, corrigées radiométriquement et mosaïquées.
 
+_Photogrammétrie par drone_
+
 ARGYRIS possède plusieurs types de drones (à voilure tournante ou à voilure fixe), ce qui nous permet de répondre à tous les types de demande en matière de topographie par drone ou de modélisation 3D : haute résolution sur de petites surfaces ou des objets de petite taille, moindre résolution sur des grandes surfaces.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTg5NjkyOCwxODU5MTM5Nzc4LDc0Nz
-M2MjgyOCwxODk3NzQyNTI1LDE2NTYxMDA4OTBdfQ==
+eyJoaXN0b3J5IjpbLTEyODA3MjI5ODIsMTg1OTEzOTc3OCw3ND
+czNjI4MjgsMTg5Nzc0MjUyNSwxNjU2MTAwODkwXX0=
 -->
