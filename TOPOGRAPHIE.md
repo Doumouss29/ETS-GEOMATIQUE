@@ -24,10 +24,10 @@ Quel que soit votre projet, ARGYRIS vous propose une formule topographique ajust
 
 _Traitement et correction d’images aériennes et satellitaires_
 
-SIRS dispose d’un atelier de traitement d’images aériennes et satellitaires. 
-
 Ses services vont de la sélection à l’acquisition de données brutes auprès des différents fournisseurs nationaux ou internationaux – tout type d’images, en moyenne, haute ou très haute résolution, papier ou numérique, optique ou radar – jusqu’à la fourniture d’images orthorectifiées, corrigées radiométriquement et mosaïquées.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDU2ODY5Niw3NDczNjI4MjgsMTg5Nz
+eyJoaXN0b3J5IjpbMTg1OTEzOTc3OCw3NDczNjI4MjgsMTg5Nz
 c0MjUyNSwxNjU2MTAwODkwXX0=
 -->
