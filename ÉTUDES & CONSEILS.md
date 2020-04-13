@@ -6,11 +6,38 @@ A travers un accompagnement étroit, Argyris est à vos côtés pour vous apport
 **Etudes : Etudes sur des problématiques territoriales**
 Parce que nous croyons que le développement économique et social des territoires repose sur des processus collectifs et concertés.
 
-État des lieux qui recense, sur un territoire déterminé, les problèmes, les forces, les faiblesses, les attentes des personnes, les enjeux économiques, environnementaux, sociaux.
-— Connaître son territoire, ses forces, ses faiblesses
-et les opportunités,
-— Connaître son public, ses attentes ses besoins,
-— Éclairer la décision, orienter ou réorienter son action
+ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
+
+-   **Vos besoins** :  
+    __Collectivités locales…__
+    
+    -   Définir votre stratégie de développement économique territorial et la partager avec tous les acteurs
+    -   Construire un outil d’aide à la décision dans le cadre d’un projet territorial après analyse des forces et faiblesses de votre territoire
+    -   Contribuer à l’élaboration des outils de planification territoriale (SCOT, Schéma d’aménagement…)
+    
+    _Industriels…_
+    
+    -   Évaluer l’impact de votre activité sur le tissu industriel local, notamment dans le cadre d’une mission de revitalisation
+
+-   **Vos objectifs** :
+    -   Développer l’activité économique sur votre territoire
+    -   Améliorer l’attractivité territoriale
+
+### Nos engagements dans la conduite personnalisée d’un diagnostic territorial
+
+-   Réaliser un état des lieux permettant de déterminer :
+    -   les caractéristiques socio-économiques du territoire,
+    -   les forces et faiblesses du territoire,
+    -   les attentes des personnes,
+    -   les enjeux économiques, environnementaux et sociaux.
+-   Élaborer une stratégie de développement territorial, partagée par l’ensemble des acteurs du territoire
+-   Définir un plan d’actions avec les axes d’intervention prioritaires
+
+### En vous appuyant sur notre expertise, vous bénéficiez…
+
+-   D’une équipe pluridisciplinaire de consultants pour mener à bien votre projet,
+-   De l’expertise requise pour la réussite de la mission,
+-   Des ressources nécessaires à la mise en œuvre de votre projet dans des délais maîtrisés.
 
 **Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
@@ -27,5 +54,6 @@ Pour la création de site internet professionnel notre équipe se charge de la c
 **Application web personnalisée**
 Une application web est un système informatique communiquant qui permet à son utilisateur un gain de temps considérable. Notre **solution sur mesure** revient à proposer un outil avec des fonctionnalités innovantes et simples d’utilisations qui s’adaptent aux contraintes métiers, avec un impact direct sur la rentabilité et la productivité de vos projets, produits, etc. Nous élaborons des applications compatibles avec de multiples systèmes d’exploitation afin de fidéliser vos cibles et consommateurs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDU2NzQyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjUxMDEwMjIsMTg1NDU2NzQyNSw3Mz
+A5OTgxMTZdfQ==
 -->
