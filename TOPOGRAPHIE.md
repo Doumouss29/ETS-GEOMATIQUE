@@ -20,7 +20,8 @@ Quel que soit votre projet, ARGYRIS vous propose une formule topographique ajust
 
 **Plan de propriété** :  Pour vos projets d’agrandissement ou de construction, un plan actuel de la propriété est indispensable.
 
-**TELEDETECTION**
+**TÉLÉDÉTECTION**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MzMwNzU1LDE2NTYxMDA4OTBdfQ==
+eyJoaXN0b3J5IjpbMTg5Nzc0MjUyNSwxNjU2MTAwODkwXX0=
 -->
