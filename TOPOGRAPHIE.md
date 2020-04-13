@@ -1,4 +1,4 @@
-**TOPOGRAPHIE**
+**I/ TOPOGRAPHIE**
 
 Quel que soit votre projet, ARGYRIS vous propose une formule topographique ajustée à vos besoins. Nous proposons des services adaptés aux Collectivités, aux entreprises du BTP, aux Architectes, aux Industries, aux Professionnels et bien entendu aux Particuliers. Retouver ci-dessous les principaux domaines de compétences de votre géomètre :
 
@@ -20,8 +20,9 @@ Quel que soit votre projet, ARGYRIS vous propose une formule topographique ajust
 
 **Plan de propriété** :  Pour vos projets d’agrandissement ou de construction, un plan actuel de la propriété est indispensable.
 
-**TÉLÉDÉTECTION**
+**II/ TÉLÉDÉTECTION**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Nzc0MjUyNSwxNjU2MTAwODkwXX0=
+eyJoaXN0b3J5IjpbNzQ3MzYyODI4LDE4OTc3NDI1MjUsMTY1Nj
+EwMDg5MF19
 -->
