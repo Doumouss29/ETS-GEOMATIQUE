@@ -2,6 +2,7 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/jkR_CB33_g6ZeLwo_xCVG9UGhq2xHVmxO1v4BKFhYL9XsAPUWTkdOagwxul9IvWY5tBxbO23CCyd)
 
+![enter image description here](https://lh3.googleusercontent.com/jrU5U8QCPypL_RjtNClpK3vmEHbmFkqeQSyeurV1wqFcBksW_9MtAH6g7IZPSXh3C0zNTK50Wip4)
 
 
 **Conseil : Assistance à maîtrise d’ouvrage, gestion de projets, études amont**
@@ -51,7 +52,7 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEzMDE0NzksMTQ0NzYwMjQyMSwtND
-I0MzcwMjUsMTE4ODE4OTA4NywxOTU2NjYzMzQsMTg1NDU2NzQy
-NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTEzNDMxODA2NSwtMTA2MTMwMTQ3OSwxND
+Q3NjAyNDIxLC00MjQzNzAyNSwxMTg4MTg5MDg3LDE5NTY2NjMz
+NCwxODU0NTY3NDI1LDczMDk5ODExNl19
 -->
