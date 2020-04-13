@@ -8,8 +8,7 @@ Parce que nous croyons que le développement économique et social des territoir
 
 ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l’élaboration d’une stratégie de développement territorial qui intègre les enjeux économiques, environnementaux et sociaux.
 
-
-### Nos engagements dans la conduite personnalisée d’un diagnostic territorial
+Nos engagements dans la conduite personnalisée d’un diagnostic territorial :
 
 -   Réaliser un état des lieux permettant de déterminer 
     -   les caractéristiques socio-économiques du territoire,
@@ -21,9 +20,6 @@ ARGYRIS vous accompagne dans la réalisation d’un diagnostic territorial et l�
 
 ### En vous appuyant sur notre expertise, vous bénéficiez…
 
--   D’une équipe pluridisciplinaire de consultants pour mener à bien votre projet,
--   De l’expertise requise pour la réussite de la mission,
--   Des ressources nécessaires à la mise en œuvre de votre projet dans des délais maîtrisés.
 
 **Transformation Digitale (accompagner les entreprises dans leur transformation : site web , appli etc)**
 
@@ -44,6 +40,6 @@ Source :
 - [https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/](https://www.geris.fr/etudes-sectorielles-conseil/diagnostic-territorial/)
 - [https://www.diagnostic-territoire.org/](https://www.diagnostic-territoire.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjY2MzM0LDE4NTQ1Njc0MjUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMjUxOTExMDAzLDE5NTY2NjMzNCwxODU0NT
+Y3NDI1LDczMDk5ODExNl19
 -->
